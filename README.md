@@ -154,6 +154,9 @@ Project Sortir is complete with all core features implemented. Future enhancemen
 
 This project was developed in collaboration with my training team. Special thanks to all team members for their dedication and hard work.
 
+[Alin HERCIU](https://www.linkedin.com/in/hugo-l-hopital/)
+[Hugo L'HÔPITAL](https://www.linkedin.com/in/alin-herciu-22a550284/)
+
 ### Contributing Guidelines
 
 If you wish to contribute to Project Sortir, please follow these guidelines:
@@ -167,4 +170,4 @@ This project is licensed under the MIT License.
 
 ## Contact Information
 
-For any inquiries, please contact [herciualin10@gmail.com](mailto:herciualin10@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/alin-herciu-22a550284/).
+For any inquiries, please contact [alexis.callet@free.fr](mailto:alexis.callet@free.fr) or connect with me on [LinkedIn](https://www.linkedin.com/in/alexiscallet/).
