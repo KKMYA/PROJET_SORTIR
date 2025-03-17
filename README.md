@@ -154,8 +154,9 @@ Project Sortir is complete with all core features implemented. Future enhancemen
 
 This project was developed in collaboration with my training team. Special thanks to all team members for their dedication and hard work.
 
-[Alin HERCIU](https://www.linkedin.com/in/hugo-l-hopital/)
-[Hugo L'HÔPITAL](https://www.linkedin.com/in/alin-herciu-22a550284/)
+[Alin HERCIU](https://www.linkedin.com/in/alin-herciu-22a550284/)
+
+[Hugo L'HÔPITAL](https://www.linkedin.com/in/hugo-l-hopital/)
 
 ### Contributing Guidelines
 
