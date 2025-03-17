@@ -31,9 +31,9 @@ Project Sortir is designed to facilitate social interaction by enabling users to
 
 ## Demonstration
 
-![Screenshot](https://github.com/Alin1233/project-sortir/blob/main/screenshots/Activity%20Creation.png?raw=true)
-![Screenshot](https://github.com/Alin1233/project-sortir/blob/main/screenshots/Home%20Page.png?raw=true)
-![Screenshot](https://github.com/Alin1233/project-sortir/blob/main/screenshots/My%20Profie.png?raw=true)
+![Screenshot](https://github.com/KKMYA/PROJET_SORTIR/blob/main/screenshots/Activity%20Creation.png?raw=true)
+![Screenshot](https://github.com/KKMYA/PROJET_SORTIR/blob/main/screenshots/Home%20Page.png?raw=true)
+![Screenshot](https://github.com/KKMYA/PROJET_SORTIR/blob/main/screenshots/My%20Profie.png?raw=true)
 
 
 ## Getting Started
@@ -117,8 +117,8 @@ Project Sortir is structured with a separate frontend and backend to handle diff
 
 ### Diagrams
 
-![Screenshot](https://github.com/Alin1233/project-sortir/blob/main/screenshots/Class%20Diagram.png?raw=true)
-![Screenshot](https://github.com/Alin1233/project-sortir/blob/main/screenshots/Diagram%20State%20of%20Activity.png?raw=true)
+![Screenshot](https://github.com/KKMYA/PROJET_SORTIR/blob/main/screenshots/Class%20Diagram.png?raw=true)
+![Screenshot](https://github.com/KKMYA/PROJET_SORTIR/blob/main/screenshots/Diagram%20State%20of%20Activity.png?raw=true)
 
 ## Technologies Used
 
